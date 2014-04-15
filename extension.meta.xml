@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension id="entries_quickselect" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+    <name>Entries Quickselect</name>
+    <description>Lets you select all entries on one publish overview page at once</description>
+    <types>
+        <type>Interface</type>
+        <type>Workflow</type>
+    </types>
+    <repo type="github">https://github.com/azzagazz/entries_quickselect</repo>
+    <authors>
+        <author>
+            <name github="azzagazz" symphony="azzagazz">Daniel Golbig</name>
+        </author>
+    </authors>
+    <releases>
+        <release version="1.0" date="2014-04-15" min="2.3" max="2.3.x">initial release</release>
+    </releases>
+</extension>
